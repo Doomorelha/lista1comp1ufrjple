@@ -5,3 +5,5 @@ Coloque aqui os arquivos referentes a cada exercício. Exemplo: Exercício 1.py;
 Cuidado ao movimentar os arquivos aqui dentro pra gente não perder nada. Você deixa rastro em cada ação que faz. 
 
 
+
+
